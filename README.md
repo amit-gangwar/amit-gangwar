@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amit-gangwar&label=Profile%20views&color=0e75b6&style=flat" alt="amit-gangwar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amit-gangwar" alt="amit-gangwar" /></a> </p>
+<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="coding"/>
 
 - 📫 How to reach me **ak8954727769@gmail.com**
 
